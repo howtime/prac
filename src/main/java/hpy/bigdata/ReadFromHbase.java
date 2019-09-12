@@ -26,7 +26,7 @@ import org.apache.hadoop.hbase.client.Scan;
 import org.apache.hadoop.hbase.security.User;
 import org.apache.hadoop.hbase.util.Bytes;
 import org.apache.hadoop.security.UserGroupInformation;
-import org.apache.hive.com.esotericsoftware.minlog.Log;
+
 
 public class ReadFromHbase {
     private static Configuration configuration;
